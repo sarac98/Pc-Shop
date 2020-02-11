@@ -1,0 +1,42 @@
+#reg{
+   
+    margin-left:440px;
+    margin-top:0px;
+}
+#forma{
+    
+    margin-left:40px;
+    
+
+}
+#log{
+   height:170px;
+   margin-left:60px;
+}
+input[type=text]{
+    width:250px;
+    height:50px;
+    border-radius: 20px;
+    border:1px solid white;
+    background-color: rgb(230,230,230);
+    padding-left:10px;  
+}
+#forma input[type=password]{
+    width:250px;
+    height:50px;
+    border-radius: 20px;
+    border:1px solid white;
+    font-style: bold;
+    background-color: rgb(230,230,230);
+    padding-left:10px;
+}
+
+#dugme{
+    position: absolute;
+    height:30px;
+    width:250px;
+    border-radius: 20px;
+    border:1px solid white;
+    background-color: rgb(87,184,70);
+    color: white;
+}

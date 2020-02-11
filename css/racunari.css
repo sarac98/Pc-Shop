@@ -1,0 +1,41 @@
+body{
+    background-color:red;
+    }
+    ol{
+    width:20%;
+    height:50%;
+    padding:0px;
+    display:inline-block;
+    vertical-align:top;
+    }
+    li{
+    border:1px solid black;
+    height:50px;
+    text-align:center;
+    list-style-type:none;
+    line-height:50px;
+    background-color:rgb(255,255,255);
+    }
+    a{
+    text-decoration:none;
+    }
+    .tabela{
+      
+      width: 36.9%;
+      display:inline-block;
+      margin-top:30px;
+      margin-left:100px;
+     
+    }
+    .tabela th{
+      border:2px solid black;
+      padding: 10px;
+      background-color:gray;
+      color:white;
+    }
+    .tabela td{
+      border:2px solid black;
+      padding: 10px;
+      color:black;
+      background-color:white;
+    }

@@ -1,0 +1,57 @@
+body{
+    background-color:red;
+    }
+    ol{
+    width:20%;
+    height:50%;
+    padding:0px;
+    display:inline-block;
+    vertical-align:top;
+    }
+    
+    li{
+    border:1px solid black;
+    height:50px;
+    text-align:center;
+    list-style-type:none;
+    line-height:50px;
+    background-color:rgb(255,255,255);
+    }
+   h3{
+     
+       width:50%;
+       margin-left:133px;
+       color:white;
+   }
+    #dodavanje{
+    border:1px solid black;
+    height:470px;
+    width: 30%;
+    display:inline-block;
+    vertical-align:top;
+    margin-left:100px;
+    margin-top:10px;
+    background-color:gray;
+    
+    }
+    a{
+    text-decoration:none;
+    }
+    form input[type=text]{
+        width:250px;
+        height:50px;
+        border-radius: 20px;
+        border:1px solid white;
+        background-color:white;
+        padding-left:15px;
+        margin-top:10px;
+        margin-left:80px;
+    }
+    form input[type=file]{
+        margin-top:15px;
+        margin-left:80px;
+    }
+    form input[type=submit]{
+        margin-top:15px;
+        margin-left:80px;
+    }
